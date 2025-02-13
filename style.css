@@ -1,0 +1,33 @@
+/* Website Body Styling */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    text-align: center;
+    padding: 20px;
+}
+
+/* Heading Design */
+h1 {
+    color: #333;
+}
+
+/* Paragraph Styling */
+p {
+    font-size: 18px;
+    color: #555;
+}
+
+/* Upload Button Styling */
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
