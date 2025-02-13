@@ -3,10 +3,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PDF Converter</title>
+    <title>PDF to Word Converter - Free Online Tool</title>
+    <meta name="description" content="Convert PDF to Word online for free. Fast and easy PDF to DOCX conversion.">
+    <meta name="keywords" content="PDF to Word, PDF Converter, Free PDF to Word, Convert PDF Online">
 </head>
 <body>
-    <h1>Welcome to PDF Converter</h1>
-    <p>This site will allow you to convert PDF to Word and vice versa.</p>
+    <h1>Welcome to PDF to Word Converter</h1>
+    <p>This site allows you to convert PDF to Word and vice versa quickly and for free.</p>
 </body>
 </html>
